@@ -10,4 +10,5 @@
 * [iOS 25个性能优化/内存优化常用方法](ios-25ge-xing-neng-you-5316-nei-cun-you-hua-chang-yong-fang-fa.md)
 * [iOS优化（一）内存优化经验](iosyou-hua-ff08-yi-ff09-nei-cun-you-hua-jing-yan.md)
 * [iOS 性能优化：Instruments 工具的救命三招](ios-xing-neng-you-hua-ff1a-instruments-gong-ju-de-jiu-ming-san-zhao.md)
+* [Awesome iOS Resource](awesome-ios-resource.md)
 
