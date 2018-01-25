@@ -6,7 +6,8 @@
   * 单起子线程记录卡顿并上报dump文件，侧重监控
 * [iOS-卡顿检测](http://www.cnblogs.com/gatsbywang/p/5555200.html)
   * 创建子线程监听主线程runloop的通知状态侧，重监控
-* [iOS 保持界](http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/)
+* [iOS 保持界面流畅的技巧](http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/)
+  
 
 
 
