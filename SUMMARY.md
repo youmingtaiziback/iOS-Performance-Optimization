@@ -9,4 +9,5 @@
 * [阿里数据iOS端启动速度优化的一些经验](a-li-shu-ju-ios-duan-qi-dong-su-du-you-hua-de-yi-xie-jing-yan.md)
 * [先弄清楚这里的学问，再来谈 iOS 内存管理与优化](xian-nong-qing-chu-zhe-li-de-xue-wen-ff0c-zai-lai-tan-ios-nei-cun-guan-li-yu-you-hua.md)
 * [iOS 25个性能优化/内存优化常用方法](ios-25ge-xing-neng-you-5316-nei-cun-you-hua-chang-yong-fang-fa.md)
+* [Instruments](instruments.md)
 
