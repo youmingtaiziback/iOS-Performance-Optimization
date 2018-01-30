@@ -5,6 +5,8 @@
 * Instruments
   * Allocations
     * [Instruments学习之Allocations](http://www.cnblogs.com/lxlx1798/p/6933195.html)
+  * Leaks
+    * [Instruments之Leaks学习](http://www.cnblogs.com/lxlx1798/p/6933485.html)
 
 
 
